@@ -1,0 +1,1 @@
+curl -Lo ~/.vimrc https://j.mp/re-vim
