@@ -8,3 +8,5 @@ Python-mode
 # Themes I use
 
 CandyPaper
+
+https://github.com/flazz/vim-colorschemes
